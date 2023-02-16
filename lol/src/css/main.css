@@ -1,9 +1,10 @@
 *{
-    background-color: skyblue;
-    color : white;
+    background-color: rgb(58, 50, 212);
+    color : rgb(255, 255, 255);
 }
 h1 {
     text-align : center;
+    font-size : 100px;
 }
 aside{
     padding: 20px;
@@ -13,4 +14,16 @@ aside{
 }
 #search {
     text-align : center;
+}
+#user_name {
+    background-color : white;
+    font-size : 20px;
+    text-align : left;
+    padding : 20px 200px;
+}
+#user_search{
+    padding : 20px;
+    background-color: rgb(58, 50, 212);
+    border : 1px solid #fbfbfb;
+    font-size : 30px;
 }
