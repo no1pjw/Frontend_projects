@@ -1,0 +1,16 @@
+*{
+    background-color: skyblue;
+    color : white;
+}
+h1 {
+    text-align : center;
+}
+aside{
+    padding: 20px;
+    display : flex;
+    width : 50%;
+    font-size : 30px;
+}
+#search {
+    text-align : center;
+}
