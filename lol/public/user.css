@@ -1,0 +1,28 @@
+header{
+    width : 40%;
+}
+h1 {
+    text-align : center;
+    font-size : 25px;
+}
+p{
+    display : flex;
+}
+#solo_rank{
+    width : 20%;
+    content : normal;
+    padding : 50px;
+    padding-top : 10px;
+    padding-left : 10px;
+    padding-bottom : 100px;
+    height : 20px;
+}
+#solo_rank header{
+    padding : 0px;
+}
+#free_rank{
+    width : 10%;
+}
+img {
+    max-width : 100px;
+}
